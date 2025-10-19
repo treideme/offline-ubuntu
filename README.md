@@ -6,4 +6,4 @@ backups of Ubuntu and other Debian-based distributions.
 
 Currently tested for Ubuntu 18.04.
 
-See my [blog post here](https://www.reidemeister.com/?p=474)
+See my [blog post here](https://reidemeister.com/blog/2022.07.18)
